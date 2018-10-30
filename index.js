@@ -15,4 +15,4 @@ var randomNumber = Math.random() * 1000000000;
 
 var randomInteger = Math.floor(randomNumber) + 1;
 
-var randomUserID = randomInteger + 1000000000;
+var randomUserID = randomInteger;
