@@ -13,6 +13,6 @@ var ageIsValid = Number.isInteger(currentAge);
 
 var randomNumber = Math.random() * 20;
 
-var randomInteger = Math.floor(randomNumber) + 1;
+var randomInteger = Math.floor(randomNumber);
 
 var randomUserID = randomInteger;
